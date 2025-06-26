@@ -1,1 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+
+How to create it:
+In Colab or local Python:
+pip install -r requirements.txt
 
